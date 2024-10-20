@@ -35,18 +35,7 @@ body {
   color: white;
   font-size: 50px;
   position: fixed;
-  top: 50px;
-  left: 50px;
-  width: 10px;
-}
-
-.happy-woman-day-two {
-  color: white;
-  font-size: 50px;
-  position: fixed;
-  top: 50px;
-  right: 200px;
-  width: 10px;
+  top: 10px;
 }
 
 .flowers {
